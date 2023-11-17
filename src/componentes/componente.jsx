@@ -1,5 +1,5 @@
 import React from "react";
-
+import '../css/componente.css'
 export function Componente(props) {
 
     return (
